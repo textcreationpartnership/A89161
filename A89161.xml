@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The down-fall of Babylon or, The ruine of Antichrist : being that mystery of iniquity, which beginneth to worke in the children of disobedience, the Independents. / By Alexander Mingzeis minister of Gods Word.</title>
+            <author>Mingzeis, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89161</idno>
+            <idno type="STC">Wing M2192</idno>
+            <idno type="STC">Thomason E1184_6</idno>
+            <idno type="STC">ESTC R204875</idno>
+            <idno type="EEBO-CITATION">99864330</idno>
+            <idno type="PROQUEST">99864330</idno>
+            <idno type="VID">116557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116557)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 251:E1184[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The down-fall of Babylon or, The ruine of Antichrist : being that mystery of iniquity, which beginneth to worke in the children of disobedience, the Independents. / By Alexander Mingzeis minister of Gods Word.</title>
+                  <author>Mingzeis, Alexander.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September]. 7th."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Independent churches --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116557:1" rendition="simple:additions"/>
+            <p>The down-fall of <hi>Babylon:</hi> OR, The Ruine of <hi>Antichriſt:</hi> Being that myſtery of Iniquity, which beginneth to worke in the children of diſobedience, the
+<hi>Independents.</hi>
+            </p>
+            <p>By <hi>Alexander Mingzeis</hi> Miniſter of Gods Word.</p>
+            <q>
+               <p>Knowing this firſt, that there ſhall come in the laſt dayes ſcoffers, walking after their own luſts. And ſaying, Where is the promiſe of his coming? For ſince the Fathers fell aſleepe, all things continue as they were from the begin<g ref="char:EOLhyphen"/>ning of the creation.</p>
+               <bibl>
+                  <hi>2. Pet. 3.3.4.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:116557:2"/>
+            <pb facs="tcp:116557:2"/>
+            <head>To His Sacred Majeſtie CHARLES, By the grace of God, of <hi>England, Scotland, Fance,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, &amp;c.</head>
+            <opener>
+               <salute>Dread Soveraigne:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hither ſhould Faith have its refuge, but to Faiths Defender? If Apoſtates dare abuſe authority then ſurely truth may take ſanctuary under your ſacred protection. There are a frie of Locuſts (in theſe licen<g ref="char:EOLhyphen"/>tious times) ſmarmd out of the bottom<g ref="char:EOLhyphen"/>leſſe pit, which have almoſt conſumed our Vine. And while we have gone about to drive out one Antichriſt, a worſe is come in his roome. Help therefore, O King, to drive out theſe Caterpillars. Let not
+<pb facs="tcp:116557:3"/>thoſe which deny authority uſurpe autho<g ref="char:EOLhyphen"/>rity. Your humble Subject takes God to witneſſe that he aimes not at the godly or truely religious, but onely at ſuch, as whoſe conſciences accuſing them may have time and leaſure enough to repent, and amend. The Lord turne them, and preſerve and keepe your Majeſty from all danger for ever, Amen.</p>
+            <closer>
+               <signed>
+                  <hi>Your Majeſties moſt humble and Loyall Subject,</hi> Alexander Mingzeis,
+<hi>Miniſter.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116557:3"/>
+            <head>The Downefall of Ba<g ref="char:EOLhyphen"/>bylon, &amp;c.</head>
+            <opener>
+               <salute>Chriſtian Reader:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>EE thinkes the very word ſets foorth and declares the odiouſ<g ref="char:EOLhyphen"/>neſſe of the Sect: for it intimates in the firſt place, that as they depend of none, ſo they are worthily called Inde<g ref="char:EOLhyphen"/>pendents, and may in time proove pendants, if not dependants.</p>
+            <p>Firſt, therefore they depend of none neither God nor man.</p>
+            <p>Of God they doe not, becauſe they have denied Chriſt, the truth and principles of the Oracles of God.</p>
+            <p>As firſt the uſe of the morall law.
+<pb n="2" facs="tcp:116557:4"/>2. The uſe of Scripture in generall. 3. In ſpeciall or particular. Firſt, therefore they have and doe deny Chriſt, by their curſed and blaſphe<g ref="char:EOLhyphen"/>mous detractions and calumniati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Firſt in giving forth that Chriſt did more hurt in teaching the Lords prayer,<note place="margin">As divers both in Countrey and City.</note> and ſaving the Thiefe upon the croſſe, then ever he did good in all his life. 2 In giving forth that he was but illegitimate,<note place="margin">As a Wea<g ref="char:EOLhyphen"/>ver in Kent, and a woman in the Ci<g ref="char:EOLhyphen"/>ty. A Gentle<g ref="char:EOLhyphen"/>man in Hartford<g ref="char:EOLhyphen"/>ſhire, a I have been credibly informed. 1. John. 2.12. 2. Pet. 2.1.</note> and a Car<g ref="char:EOLhyphen"/>penters Sonne. 3. And laſtly there and have beene ſome of them which have and doe flatly deny that ever there was ſuch an one as a Chriſt in the world, &amp;c. John ſaith that he is Antichriſt which denieth the Father and the Sonne, that is, which denyeth Chriſt to be the Son of God, and have not our adverſa<g ref="char:EOLhyphen"/>ries done ſo? The Apoſtle Peter tel<g ref="char:EOLhyphen"/>leth us, that there ſhall be falſe Tea<g ref="char:EOLhyphen"/>chers among us in the laſt times,
+<pb n="3" facs="tcp:116557:4"/>who privily ſhall bring in damnable Hereſies, even denying the Lord that bought them, and bring upon themſelves ſwift deſtruction. And have not our adverſaries done ſo? And St. Jude ſaith, that they were before of old ordained to this con<g ref="char:EOLhyphen"/>demnation,<note place="margin">Jude
+4.</note> which ſhould turne the grace of God into laciviouſneſſe, de<g ref="char:EOLhyphen"/>nying the only Lord God, and our Lord Jeſus Chriſt. The Jewes de<g ref="char:EOLhyphen"/>ny Chriſt, but never accuſed him of folly and ignorance, as ſome of our adverſaries have done. The Turks confeſſe him to be the great Pro<g ref="char:EOLhyphen"/>phet and Meſſi as that ſhould come into the world,<note place="margin">Deut. 18.15. Dan. 9
+25.</note> only they deny him to be the Son of God; but they ne<g ref="char:EOLhyphen"/>ver gave forth that he was illegi<g ref="char:EOLhyphen"/>timate, and a Baſtard. Therefore In<g ref="char:EOLhyphen"/>dependents are worſe then either Turks or Jewes, Heathens or Infi<g ref="char:EOLhyphen"/>dels.<note place="margin">Rev. 13 4.</note> The Divine Evangeliſt ma<g ref="char:EOLhyphen"/>keth mention of a beaſt that ſhould
+<pb n="4" facs="tcp:116557:5"/>ariſe out of the Sea, having ſeven heads and ten hornes, and ſpeaking blaſphemies,<note place="margin">5.6.</note> to whom the Dragon ſhould give his power.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2.</note> And what is this beaſt, but the pernicious ſect of the Independents? for are they not riſen out of the ſea of the promiſ<g ref="char:EOLhyphen"/>cous and various multitude of peo<g ref="char:EOLhyphen"/>ple? 2. Is not their power almoſt be<g ref="char:EOLhyphen"/>come infinite and boundleſſe, noted by the beaſts ſeaven heads and ten hornes?
+3. Hath not the Dragon, or Devill given them this power, (for ſure I am) neither God nor man ever gave it them? 4. And laſtly, doe they not in a moſt ample and large manner open their mouthes to blaſ<g ref="char:EOLhyphen"/>phemy with the beaſt; yea in ſuch a meaſure as was never heard of a<g ref="char:EOLhyphen"/>mong Jewes or Gentiles, Turkes or Barbarians, inſomuch that it is a wonder the Land doth not ſinke un<g ref="char:EOLhyphen"/>der the burthen of them. But to this it will be objected, that this is but
+<pb n="5" facs="tcp:116557:5"/>the error of a few, and is not known nor acknowledged by them all. I anſwer, by a part wee may judge of all, even as Apelles tooke Hercules length and ſtature, by the meaſure of his foote. Beſides (as our adver<g ref="char:EOLhyphen"/>ſaries cannot deny) but that thoſe which have opened their mouthes in ſuch a meaſure of blaſphemy a<g ref="char:EOLhyphen"/>gainſt Chriſt, are alſo thoſe which are of their owne ſect and opinion, neither have they beene rebuked by them, or written or ſpoke againſt ſo farre as ever I have read or under<g ref="char:EOLhyphen"/>ſtood (by any of them) for the ſame.</p>
+            <p>Secondly, as theſe our adverſa<g ref="char:EOLhyphen"/>ries have denyed Chriſt; ſo they have, &amp; do deny the uſe of the mo<g ref="char:EOLhyphen"/>ral Law, bearing us in hand, that it is of no force, ſtrength, or vertue. And indeede what can be better for law<g ref="char:EOLhyphen"/>leſſe, people, then to have the Law a<g ref="char:EOLhyphen"/>brogated and aboliſhed? Therefore (albeit there may ſeeme to be no
+<pb n="6" facs="tcp:116557:6"/>diſpute againſt thoſe that deny the principles of faith and reaſon) yet have I undertaken (for conſcience ſake, and their owne good) to ſhew unto them the uſe and neceſſity of the Law, and that it is in as great force, ſtrength, and vertue (accor<g ref="char:EOLhyphen"/>ding to the inlightening, and direct<g ref="char:EOLhyphen"/>ing power of it) as ever it was. And that firſt by the teſtimony of Chriſt himſelfe, who plainely telleth us, that he is not come to deſtroy the Law and the Prophets,<note place="margin">Mat. 5.17.</note> but to fulfill them.<note place="margin">Rom.
+3.31.</note> And the Apoſtle that he did not make void the Law, but did e<g ref="char:EOLhyphen"/>ſtabliſh it. And the reaſon is, be<g ref="char:EOLhyphen"/>cauſe the Law is holy,<note place="margin">7.12.</note> and the com<g ref="char:EOLhyphen"/>mandement is holy, juſt, and good. Therefore David made it his de<g ref="char:EOLhyphen"/>light,<note place="margin">Pſal.
+119.70.</note> and the Prophet Iſaiah con<g ref="char:EOLhyphen"/>cludeth;<note place="margin">Iſay. 8.20.</note> To the Law, and to the Teſtimony, if they ſpeake not accor<g ref="char:EOLhyphen"/>ding to this word, it is becauſe there is no truth in them. I muſt confeſſe,
+<pb n="7" facs="tcp:116557:6"/>as many as are led by the ſpirit of Chriſt,<note place="margin">Gal.
+5.18.</note> are not under the curſe or ri<g ref="char:EOLhyphen"/>gour of the Law, by reaſon that in reſpect of our ſelves, and our owne weakeneſſe the Law can make no<g ref="char:EOLhyphen"/>thing perfect;<note place="margin">Heb.
+7.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> but that hinders not the Law to be ſtill in force, and per<g ref="char:EOLhyphen"/>fect in it ſelfe,<note place="margin">Pſ. 19.7.</note> not only as it is a rule of righteouſneſſe, and a light unto us, but alſo as it ſerveth to convince the conſcience, and to lay it open. And therefore David uſed it as a lampe unto his feete,<note place="margin">Pſal. 119.105.</note> and a light un<g ref="char:EOLhyphen"/>to his pathes. And the Apoſtle plainely concludeth, that he had not knowne ſinnes,<note place="margin">Rom. 7.7.</note> but by the Law. Wherefore take away this light, this lampe, and this rule, and our adver<g ref="char:EOLhyphen"/>ſaries may doe what they liſt, blow out this candle, and they may goe whether they pleaſe; but they muſt not thinke to eſcape in the darke or to go away in a miſt; for wee ſhall be able (even by the very lanthorne
+<pb n="8" facs="tcp:116557:7"/>of this Law) to trace and finde them out. And therefore they deny it leſt they ſhould be found out, &amp; ruld by it.<note place="margin">Joh. 3.19.</note> For light is come into the world, and men love darkeneſſe, rather then light; becauſe their deeds are evill.</p>
+            <p>Thirdly, our adverſaries (the In<g ref="char:EOLhyphen"/>dependents) doe not only deny Chriſt, and the uſe of the morall Law; but alſo the whole Canoni<g ref="char:EOLhyphen"/>call Scriptures, in calling them a dead letter, and in comparing them to a fountaine ſcaled up. Notwith<g ref="char:EOLhyphen"/>ſtanding the Prophet Iſaiah proclai<g ref="char:EOLhyphen"/>meth unto all,<note place="margin">Iſay. 55.1.</note> to come freely to the waters, and to buy wine and milke without money, and without price: And the Prophet Ezechiel com<g ref="char:EOLhyphen"/>pares them to the waters iſſuing forth under the threſhold of the Sanctuary,<note place="margin">Ezech 47.5.</note> which grew into a river, and became impaſſible. David tells us, that the Law of the Lord is per<g ref="char:EOLhyphen"/>fect, converting the ſoule; that the
+<pb n="9" facs="tcp:116557:7"/>teſtimony of the Lord is ſure,<note place="margin">Pſ. 19 7.</note> ma<g ref="char:EOLhyphen"/>king wiſe the ſimple, and that the ſtatutes of the Lord are right, rejoy<g ref="char:EOLhyphen"/>cing the heart, the commandement of the Lord is pure, inlightning the eyes. And Paul ſaith in Timothy, that all Scripture is given by inſpira<g ref="char:EOLhyphen"/>tion of God,<note place="margin">2 Tim.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 16.</note> and is profitable for doctrine, reproofe, for correction, for inſtruction in righteouſneſſe. That the man of God may be per<g ref="char:EOLhyphen"/>fect, throughly furniſhed unto all good workes. In the Epiſtle to the Hebrewes, he tells us, that the word of God is quick and powerfull,<note place="margin">Heb. 4.12</note> and ſharper then any two edged ſword, piercing even to the dividing of ſoule and ſpirit, and of the joynts and marrow, and that it is a diſcerner of the thoughts and intents of the heart. And in the Epiſtle to the Ro<g ref="char:EOLhyphen"/>mans he plainely concludeth the Goſpell to be the power of God un<g ref="char:EOLhyphen"/>to ſalvation.<note place="margin">Ro. 1.16.</note> And therefore if our
+<pb n="10" facs="tcp:116557:8"/>Goſpel he did (ſaith the Apoſtle) It is hid to them that are loſt,<note place="margin">2 Cor. 4. 34.</note> in whom the God of this world hath blinded the minds of them that believe not, leſt the light of the glorious Goſpel of Chriſt (who is the Image of God) ſhould ſhine unto them. I wonder what St. John meaneth, whereas he ſaith:<note place="margin">Joh. 1.1.</note> In the beginning was the word, and the word was with God, and the word was God. I hope our adverſaries will not ſay, that God is a dead letter.</p>
+            <p>But it is not the ſence or ſcope of Scripture (will they object) which they call the dead letter but the let<g ref="char:EOLhyphen"/>ter it ſelfe, which is the creature.</p>
+            <p>I anſwer, then the Creator (with the ſcapegoat) may paſſe free, but take away the letter, I wonder what will become of the ſence, and ſcope of Scripture. Yes, our new Enthu<g ref="char:EOLhyphen"/>ſiaſts and ſpeculative Divines have found out a way to come by the
+<pb n="11" facs="tcp:116557:8"/>ſence and ſcope of Scripture, with<g ref="char:EOLhyphen"/>out the letter, and that is by Revela<g ref="char:EOLhyphen"/>tion, and inditing of the ſpirit. But what ſpirit is that, which inditeth without Scripture? Muſt not Gods word and ſpirit be one?<note place="margin">1 Joh. 5.7.</note> And doth not the Apoſtle ſay plainely, that if wee or an Angell from Heaven preach any other Goſpel then that which hath beene preached,<note place="margin">Gal. 1.8.</note> let him be accurſed And is it not a new Goſ<g ref="char:EOLhyphen"/>pel to deny Chriſt, to deny the Scriptures, to deny Magiſtracie, to deny Miniſtry, and to deny the crea<g ref="char:EOLhyphen"/>ture, or that man hath a reaſonable ſoule?</p>
+            <p>But ſeeing I have proved Inde<g ref="char:EOLhyphen"/>pendents already to be worſe then Jewes, Turkes or Infidels; let us now ſee what difference there is be<g ref="char:EOLhyphen"/>tweene them and Papiſts. Papiſts ſay that the Holy and Canonicall Scriptures are imperfect and ob<g ref="char:EOLhyphen"/>ſcure; therefore they reſtraine them
+<pb n="12" facs="tcp:116557:9"/>from the Laiety. Independents ſay that they are but a dead letter, and therefore uſeleſſe, and unprofitable, and reſtraine them from all men. The Pope arrogates the knowledge and interpretation of Scripture only to himſelfe, ſo doe Independents. The Pope he ſaith, that he is above and without all Law, becauſe he hath the Law written in the table of his breaſt; ſo doe Independents. Only herein is the difference (if there be any) that the Pope and Papiſts (in ſome nature) refuſe not to be tryed by Scripture; but our adverſaries doe; for ſo much as they (notwith<g ref="char:EOLhyphen"/>ſtanding Malechie ſaith,<note place="margin">Mal. 2.7.</note> the Prieſts lips ſhould preſerve knowledge, and they ſhould ſeeke the Law at his mouth) arrogate the key of know<g ref="char:EOLhyphen"/>ledge, and of interpreting the Scrip<g ref="char:EOLhyphen"/>tures only to themſelves,<note place="margin">A woman in Midle<g ref="char:EOLhyphen"/>ſex.</note> and plaine<g ref="char:EOLhyphen"/>ly give forth that the Scriptures are to be tryed by their ſpirit, and not
+<pb n="13" facs="tcp:116557:9"/>their ſpirit by the Scriptures. Be<g ref="char:EOLhyphen"/>ing contrary to Saint Johns rule,<note place="margin">1 Joh. 4.1.</note> which adviſeth us not to believe e<g ref="char:EOLhyphen"/>very ſpirit; but to try them, whether they be of God, adding the reaſon, becauſe many falſe ſpirits are gone forth into the world. But how ſhould wee try them? whenas they have wrung the rule of truth and touchſtone of Gods word, out of our hands, in calling it a dead letter, and uſeleſſe creature. The Pope he ſaith he cannot ſinne, only out of Peters chaire, he confeſſeth he may erre; but our adverſaries plainely tell us, that they cannot ſinne at all; And why? Becauſe God ſees no ſinne in Jacob,<note place="margin">Num. 23.21.</note> nor tranſgreſſion in Iſrael. And he that is borne of God ſinneth not; Neither indeed can he ſinne, becauſe his ſeede abideth in him. O happy people, a royal Prieſt<g ref="char:EOLhyphen"/>hood, and a holy Nation.<note place="margin">1 Pet. 2.9.</note> I won<g ref="char:EOLhyphen"/>der they doe not alſo ſay, that the
+<pb n="14" facs="tcp:116557:10"/>ſhowte of a King is among them. How hath God ſent them the ſpirit of deluſion,<note place="margin">2 Theſ. 2.11.</note> that they might believe a lie,<note place="margin">12.</note> to the end that they might all be damned, which beleeve not the truth? For are they ignorant, or do they take no notice that Iſrael was e<g ref="char:EOLhyphen"/>ven then committing whooredome with the Daughters of Moab,<note place="margin">Num. 25.1.</note> when Balaam did pronounce them with<g ref="char:EOLhyphen"/>out ſinne. And doth not the ſame author which ſaith;<note place="margin">1 Joh.
+3.9.</note> he which is borne of God cannot ſinne; alſo to conclude,<note place="margin">1 Joh.
+1.8.</note> that he which ſaith he is without ſinne, deceiveth himſelfe, and the truth is not in him.<note place="margin">Pſ. 32.1</note> I con<g ref="char:EOLhyphen"/>feſſe, the man is bleſt, to whom the Lord doth not impute ſinne. But that hindreth not, but that God ſee<g ref="char:EOLhyphen"/>eth ſinne in Jacob, and tranſgreſſion in Iſrael.<note place="margin">1 Sam. 7. 32.33.</note> Yea, and that he will pu<g ref="char:EOLhyphen"/>niſh it with the rods of men; though he take not his everlaſting mercies from us. But heere I ſhall intreat
+<pb n="15" facs="tcp:116557:10"/>thee (Chriſtian Reader) to conſi<g ref="char:EOLhyphen"/>der what will become of this doct<g ref="char:EOLhyphen"/>rine of our adverſaries. They ſay God ſeeth no ſinne in Jacob, nor tranſgreſſion in Iſrael; therefore be ſecure, and let us ſinne, that grace may abound. 2. Obſerve, that if there be no ſinne, then the ſoule is made righteous; but a righteous ſoule needes no Saviour; therefore no wonder, that our adverſaries de<g ref="char:EOLhyphen"/>ny Chriſt. Againe, where there is no ſinne there is perfection of grace; but where there is perfection of grace, there muſt alſo be perfection of glory (for ſo much as glory is the reward of grace) therefore by their owne conſequent they muſt, and do injoy Heaven upon earth, which hath and doth make ſome of them not only not aſhamed to deny the reſurrection, and generall judge<g ref="char:EOLhyphen"/>ment, but alſo plainely to give forth,<note place="margin">The F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>miliſt, and the Mille<g ref="char:EOLhyphen"/>natie.</note> that the reſurrection is already
+<pb n="16" facs="tcp:116557:11"/>paſt, that Heaven is upon earth, and that they enjoy Chriſt heere in the fleſh: If this be not Apoſtaſie, I know not what is; I cannot but wonder therefore that our adverſa<g ref="char:EOLhyphen"/>ries would ſeperate themſelves from us,<note place="margin">Jude 19</note> ſeeing wee have more rea<g ref="char:EOLhyphen"/>ſon to ſeperate our ſelves from them. But they are gone from a<g ref="char:EOLhyphen"/>mong us, becauſe they were not of us,<note place="margin">1 Joh. 2.19.</note> and heerein they are farre worſe then the Pope, for albeit he have ſwarved in ſome things; yet hath he not denyed the Articles of the Faith, as it is proved our adverſaries both have and doe. And therefore alſo I muſt confeſſe, I ſhould have taken the Pope to have beene the Antichriſt; but that I finde a worſe to ſtand up in his roome. It is ſaid of that man of ſinne, and ſonne of perdition:<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Theſ.
+2.1.</note> That he oppoſeth and exalteth himſelfe above all that is called God, or that is worſhipped;
+<pb n="17" facs="tcp:116557:11"/>ſo that as God he ſitteth in the tem<g ref="char:EOLhyphen"/>ple of God, ſhewing himſelfe that he is God. And doe not our ad<g ref="char:EOLhyphen"/>verſaries ſo? For in the firſt place they take themſelves to be the only people of God, condemning all but themſelves. 2. They oppoſe and advance themſelves above all that is called God: Above Chriſt, above the Scriptures, above people, above Prieſt, above Magiſtrate, above Mi<g ref="char:EOLhyphen"/>niſter, and above all the world: So that their power may well be com<g ref="char:EOLhyphen"/>pared unto the Beares foote, ſpoken of in the Revelation, which in Da<g ref="char:EOLhyphen"/>niel is ſaid to breake in pieces,<note place="margin">Rev. 13 2. Dan. 7.6.</note> to de<g ref="char:EOLhyphen"/>voure; yea, and to ſtampe all things under its feete. I read of a woman (in the Revelations) that was cloa<g ref="char:EOLhyphen"/>thed with the Sun,<note place="margin">Rev. 12.1.</note> and had twelve Starres upon her head, and had the Moone under her feete; but I never read of a woman that trampled both Sun, Moon &amp; Stars, &amp; all under her feete.</p>
+            <pb n="18" facs="tcp:116557:12"/>
+            <p>Fourthly, our adverſaries doe not only deny Scripture in generall, by calumniating, and traducing it: But alſo in particular in flatly denying ſome part of it. As firſt the booke of Pſalms, queſtioning the Author; becauſe ſome of the Pſalmes beare the Titles of others beſides David. 2. They queſtion the firſt and ſe<g ref="char:EOLhyphen"/>cond booke of the Kings, becauſe they are thought to containe no o<g ref="char:EOLhyphen"/>ther thing then what is expreſſed and ſet down in the firſt and ſecond booke of the Chronicles. 3. They queſtion ſome of the ſmaller Pro<g ref="char:EOLhyphen"/>phets (as Amos by name) becauſe he was a heards man.<note place="margin">Amos 1.1.</note> 4. In the new Teſtament, ſome of them queſtion Saint Lukes Goſpell, and the Acts, becauſe the Authour was a Phyſiti<g ref="char:EOLhyphen"/>on. The booke of the Hebrewes, becauſe the Authour is uncertaine. The Epiſtle of Saint Jude, becauſe there was one of Chriſt kinſmen
+<pb n="19" facs="tcp:116557:12"/>of that name in Mathewes Goſpel, becauſe he was a Publican, and the Revelation, becauſe it was written in Johns baniſhment, when he was in the Iſle of Patmos. Finally, and in a word, they make but little or no accompt of the whole booke of the old Teſtament; becauſe they con<g ref="char:EOLhyphen"/>ceive old things are done away, and all thinges are become new.<note place="margin">2 Cor. 5.17.</note> Not waying that the two Teſtaments are like twinnes, or the two Tables of ſtone, in ſo much that whoſoever imbraces the one, muſt alſo make uſe of the other; becauſe what is contained in the one, is alſo conclu<g ref="char:EOLhyphen"/>ded in the other. For as the old Te<g ref="char:EOLhyphen"/>ſtament which containeth the Law, doth alſo include the Goſpel, by way of promiſe, and Revelation: So the new Teſtament, which contai<g ref="char:EOLhyphen"/>neth the Goſpel,<note place="margin">Joh. 13 34.35.</note> doth alſo include the Law, by way of precept, which is love,<note place="margin">Ro. 13.10.</note> being the fulfilling of the
+<pb n="20" facs="tcp:116557:13"/>Law.<note place="margin">Gen. 38.27.</note> So that (like Thamars twins) they ſeeme to goe hand in hand: What therefore God hath joyned together, let no man put aſunder.</p>
+            <p>Laſtly, as our adverſaries (the In<g ref="char:EOLhyphen"/>dependents) deny God, deny Chriſt, deny the Scriptures: So likewiſe they deny all humane po<g ref="char:EOLhyphen"/>wer and authority, whether it be Ec<g ref="char:EOLhyphen"/>cleſiaſticall or Civill Government.</p>
+            <p>And firſt they deny humane au<g ref="char:EOLhyphen"/>thority in the Church; for they will have no ſuperiour in the ſame, and their reaſon is,<note place="margin">Mat. 23.8.</note> becauſe they are brethren; forgetting that Timothy was Biſhop of Epheſus, and Titus Biſhop of Crete. And that Paul gives charge to the Elders of the Church of Epheſus, that they ſhould take heede unto themſelves,<note place="margin">Act. 20.28.</note> and to all the flocke over the which the holy Ghoſt had made them over ſeers: And the Author to the Hebrewes, plainely exhorts us, to
+<pb n="21" facs="tcp:116557:13"/>obey them that have the rule over us,<note place="margin">Heb. 13.17.</note> ſeeing they watch for our ſoules, as they that muſt give accompt for them, that they may doe it with joy, and not with griefe, ſeeing that is unprofitable for us. And the Apo<g ref="char:EOLhyphen"/>ſtle in Timothy exhorts, that the El<g ref="char:EOLhyphen"/>ders which rule well,<note place="margin">1 Tim. 5.17.</note> ſhould be counted worthy of double honour; eſpecially they who labour in the word and doctrine; where we ſhall finde 3 orders or degrees of Rulers in the Church, in the Apoſtles time. Firſt of Biſhops (though they be now cryed down) which ſucceeded the Apoſtles. 2. Of Elders which were alſo preaching Miniſters; but had not ſo great a power as Biſhops. 3. Of Deacons, or reading Mini<g ref="char:EOLhyphen"/>ſters, which had no power in the Church but only to ſerve the poore and adminiſter the ſacraments, as appeareth by the 6 of the Acts, and 5 verſe. I deny not, but that there
+<pb n="22" facs="tcp:116557:14"/>were alſo Lay-Elders, whom we call Church-wardens; but they ſerved only to keepe the treaſury of the Church, and to ſee good order, and decorum kept in it. And were joy<g ref="char:EOLhyphen"/>ned with the preaching Elders; but might not medle with the diſpenſa<g ref="char:EOLhyphen"/>tion of the word. Secondly, as Scripture doth allow of Eccleſiaſti<g ref="char:EOLhyphen"/>call government; ſo of civill or po<g ref="char:EOLhyphen"/>liticall. And firſt whereas our bleſ<g ref="char:EOLhyphen"/>ſed Saviour told Pilate that he could have no power ever him,<note place="margin">Joh. 19.11.</note> but that it was given him from above.</p>
+            <p>Where obſerve that Chriſt was ſubject even to a heathen Prince, a Tyrant, and an Infidell. And the Apoſtle exhorteth us to be ſubject unto the higher powers,<note place="margin">Ro.
+13.1.</note> declaring withall (as Chriſt had done before) that there is no power, but what is ordained of God. And therefore Peter earneſtly exhorteth us,<note place="margin">1 Pet.
+2.13.</note> that wee ſhould ſubmit our ſelves to e<g ref="char:EOLhyphen"/>very
+<pb n="23" facs="tcp:116557:14"/>very ordinance of man for the Lords ſake, &amp;c.<note place="margin">Act.
+25.11.</note> This made Paul ap<g ref="char:EOLhyphen"/>peale from Feſtus to Caeſar, though a Heathen and Infidell, as Chriſt had done before to Pilate. What are theſe therefore that diſpiſe do<g ref="char:EOLhyphen"/>minion,<note place="margin">Jude 8.</note> and ſpeake evill of digni<g ref="char:EOLhyphen"/>ties? Saint Jude will tell us, that they are thoſe who ſeperate them<g ref="char:EOLhyphen"/>ſelves,<note place="margin">19.</note> ſenſually, having not the ſpi<g ref="char:EOLhyphen"/>rit; though they boaſt moſt of it. And the Apoſtle Peter will tell us that they are preſumptious,<note place="margin">1 Pet. 2.10.</note> and ſelfewilled, and ſuch as promiſe o<g ref="char:EOLhyphen"/>thers liberty,<note place="margin">19.</note> when themſelves are the ſervants of corruption. Thirdly, Whoſe judgement (ſaith the Apo<g ref="char:EOLhyphen"/>ſtle) lingereth not, and their dam<g ref="char:EOLhyphen"/>nation ſlumbereth not. I wonder therefore in the end what will be<g ref="char:EOLhyphen"/>come of this people; they will ad<g ref="char:EOLhyphen"/>mit us no Magiſtracy, they will ad<g ref="char:EOLhyphen"/>mit us no Miniſtry, they will admit us no Government, they will admit
+<pb n="24" facs="tcp:116557:15"/>us no King, they will admit us no government, they will admit us no Church, they will not admit us the Scriptures,<note place="margin">The Mil<g ref="char:EOLhyphen"/>lenary,</note> they will not admit us Chriſt: For have not ſome of them plainely given forth, that wee are no Church?<note place="margin">Mr. Hollis by name.</note> nay, that our Church is no better then an houſe of office: That wee have neither Urim nor Thummim.<note place="margin">A Maide.</note> Nay, that wee are not a people, or at the leaſt not the Lords people. I wonder what they will make us believe at the laſt; ſurely, that wee are not our ſelves; but (bleſſed be God) wee know both what and whom we have believed.<note place="margin">2 Tim. 1.2. The com<g ref="char:EOLhyphen"/>paſſionate Samari<g ref="char:EOLhyphen"/>tance. page
+29.</note> Though they cry downe King, cry downe Parliament, cry downe or<g ref="char:EOLhyphen"/>der, cry downe Biſhops, cry downe learning, cry downe all; to the end that all things may be brought into diſorder, and confuſion. Sathan ſeemes to be let looſe among us,<note place="margin">Rev. 20 7.</note> and the bottomeleſſe pit to be ſet open;<note place="margin">Rev. 9.2.</note> for of men or reaſonable creatures,
+<pb n="25" facs="tcp:116557:15"/>they would make us worſe then ſtocks and ſtones, or blockheaded aſſes; for have and doe they not plainely give forth, that a man hath no ſoule,<note place="margin">Mr. Darby by name.</note> and that ſtocks and ſtones have as much in them of God as man hath? Nay that God is in theſe dumbe and ſenſeleſſe creatures,<note place="margin">A Cap<g ref="char:EOLhyphen"/>taine Mr. Bur by name.</note> and that they are God. What is or will become of thee, O England, as long as thou intertaineſt ſuch Doctors in the midſt of thee? For ſure I am, never Atheiſt, Heathen, or Infidell ever durſt or would ſpeake like unto this people, who change the glory of the uncorruptible God,<note place="margin">Ro. 1.23.</note> into the Image of a corruptible crea<g ref="char:EOLhyphen"/>ture, or of a calfe that eateth hay.<note place="margin">Pſal. 106.20.</note> And pity it were, but that we ſhould caſe hay with a calfe, or be counted worſe then ſtocks or ſtones, or then Oxen or Aſſes; if wee ſhould be<g ref="char:EOLhyphen"/>lieve all what our adverſaries teach and hold forth unto us. O England,
+<pb n="26" facs="tcp:116557:16"/>thou waſt once the glory and mir<g ref="char:EOLhyphen"/>rour of Nations, the wonder of the world; but now thou art become the ſcorne and deriſion of the peo<g ref="char:EOLhyphen"/>ple. The ſeate of Antichriſt, a neſt of vipers, and a cage of uncleane birds, even a place where Sathans Throne and Kingdome is.<note place="margin">Rev. 2.13.</note> Ariſe therefore, repaire thy beauty, drive out thoſe locuſts and caterpillars, which deſtroy the vine: Rid thy ſelf of Atheiſme, blaſphemy, Antichri<g ref="char:EOLhyphen"/>ſtianiſme, and profaneſſe, the which that thou maieſt doe, God grant, for Chriſts ſake, Amen</p>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <p>OBſerve (with me) Chriſtian Rea<g ref="char:EOLhyphen"/>der, that as Independents are worſe then either Jew, Turke, Bar<g ref="char:EOLhyphen"/>barian; ſo they are worſe then that man of ſinne, and Sonne of perditi<g ref="char:EOLhyphen"/>on,
+<pb n="27" facs="tcp:116557:16"/>to wit the Pope. Firſt, in re<g ref="char:EOLhyphen"/>ſtraining Scripture from all by their calumniation and traducing of it. 2. In regard they challenge the knowledge of it only to themſelves. 3. In regard, they give forth, that they cannot ſinne. 4. In denying the Articles of the Chriſtian Faith. 5. And laſtly, in advancing them<g ref="char:EOLhyphen"/>ſelves above all that is called God, or that is worſhipped. And as they exceede Antichriſt in theſe five thinges; ſo they are like him in two. Firſt in calumniating and traducing of Scripture. 2 .In bringing in ſtocks and ſtones to be worſhipped, and acknowledging a divine power to be in them: So that inſtead of Chriſt and of his word, they labour and endeavour to bring in Antichriſt, and their owne braine ſick fancies, and Atheiſticall whimſies, and opi<g ref="char:EOLhyphen"/>nions. And inſtead of Chriſtian and Civill Government in Church
+<pb n="28" facs="tcp:116557:17"/>and State, they labour and endeavour to bring in their owne licentious liber<g ref="char:EOLhyphen"/>tie, which is nothing but diſorder and confuſion. And inſtead of a Chriſtian or reaſonable ſoule, they would make us believe that wee are no better then an Oxe or an Aſſe, or a Calfe that ea<g ref="char:EOLhyphen"/>teth hay. Finally, and in a word, for Chriſt, they would have Antichriſt, for the Scriptures, their owne braine ſicke fancies and opinions; for Chriſtian Diſcipline, Order, and Government, they would have nothing but diſorder and confuſion. For a Church they would have a Jake, for a ſteeple-houſe a chimney-houſe, and for the immortall and everliving true God, they would have us to imbrace, and worſhippe ſtocks and ſtones, and other dumbe and ſenſeleſſe creatures. But from ſuch a people (good Lord) deliver us. Have a care therfore (O England) and heed that while thou art excluding or bani<g ref="char:EOLhyphen"/>ſhing one Antichriſt, thou have and do not intertaine a worſe in his roome, which God forbid, for Chriſts ſake, Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116557:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
